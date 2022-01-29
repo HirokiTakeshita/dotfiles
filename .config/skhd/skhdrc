@@ -1,0 +1,16 @@
+# navigation
+ctrl - j : yabai -m window --focus prev
+ctrl - k : yabai -m window --focus next
+
+# fullscreen
+ctrl - space : yabai -m window --toggle zoom-fullscreen
+
+# mirror
+ctrl - m : yabai -m space --mirror y-axis && yabai -m window --focus first
+
+# rotation
+ctrl - r : yabai -m space --rotate 270
+
+# warp
+ctrl + shift - j : yabai -m window --warp prev
+ctrl + shift - k : yabai -m window --warp next

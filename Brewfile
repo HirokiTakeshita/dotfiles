@@ -1,0 +1,22 @@
+cask_args appdir: "/Applications"
+
+tap "koekeishiya/formulae"
+
+brew "jq"
+brew "neovim"
+brew "skhd"
+brew "tmux"
+brew "yabai"
+
+cask "aerial"
+cask "alfred"
+cask "bitwarden"
+cask "cold-turkey-blocker"
+cask "flux"
+cask "google-chrome"
+cask "google-japanese-ime"
+cask "iterm2"
+cask "karabiner-elements"
+cask "slack"
+cask "visual-studio-code"
+cask "zoom"
