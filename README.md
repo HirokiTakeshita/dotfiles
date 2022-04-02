@@ -1,6 +1,10 @@
 # dotfiles
 Install dotfiles and apps using [Homebrew Bundle](https://github.com/Homebrew/homebrew-bundle) and shell scripts.
 
+ターミナルで，インストールコマンドを実行すると，Z Shellの設定ファイルやNeovimの設定ファイルなどが作成され，Brewfileに書いてあるアプリケーションがインストールされる．
+
+<br>
+
 ## Installation
 
 1. Run install command
